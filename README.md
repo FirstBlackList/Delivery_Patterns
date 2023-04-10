@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/bvq3my65os7up273?svg=true)](https://ci.appveyor.com/project/FirstBlackList/delivery-patterns)
